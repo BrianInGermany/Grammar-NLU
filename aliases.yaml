@@ -1,3 +1,6 @@
 start:
 - start(en)?
 - beginn(en)?
+stop:
+- pause
+- stopp(en)?
