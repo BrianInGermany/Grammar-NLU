@@ -1,5 +1,6 @@
 start_wash:
-- .*{@cycle}.*{@temperature}.*{~starten}.*
+- .*{@cycle}.*{@temperature}.*{~start}.*
+- .*{@temperature}.*{@cycle}.*{~start}.*
 pause_wash:
 - .*{~stop}.*
 no_intent:
